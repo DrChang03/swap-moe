@@ -1,0 +1,12 @@
+{
+  "domain": "ernaehrung",
+  "intent": "personal_advice",
+  "last_model": "ernaehrung",
+  "history": [
+    "Wie viel Vitamin C brauche ich täglich?",
+    "Ich forsche über Mangelkrankheiten, was ist der Zusammenhang?",
+    "Mein Python Script gibt einen TypeError aus",
+    "Was kann ich mit Hähnchenbrust kochen?"
+  ],
+  "session_active": true
+}
