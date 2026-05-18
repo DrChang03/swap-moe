@@ -1,0 +1,19 @@
+# Modelle (zu groß für GitHub)
+models/*.safetensors
+models/*.gguf
+models/*.bin
+models/*.pt
+adapters/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+runs/
